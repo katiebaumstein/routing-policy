@@ -79,7 +79,6 @@ EOF
 
 echo
 cat /etc/motd
-echo "================================================="
 
 echo
 echo "Snell installation completed successfully."

@@ -78,4 +78,9 @@ cat > /etc/motd <<EOF
 EOF
 
 echo
+echo "================ CURRENT SESSION ================"
+cat /etc/motd
+echo "================================================="
+
+echo
 echo "Snell installation completed successfully."

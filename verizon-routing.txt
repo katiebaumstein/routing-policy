@@ -1,4 +1,11 @@
 DEST-PORT,500
 DEST-PORT,4500
+DOMAIN-SUFFIX,bazaarvoice.com
+DOMAIN-SUFFIX,transcend.io
+DOMAIN-SUFFIX,adobedc.net
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,schemaapp.com
+DOMAIN-SUFFIX,quantummetric.com
+DOMAIN-SUFFIX,qualtrics.com
 DOMAIN-KEYWORD,vzw
 DOMAIN-KEYWORD,verizon

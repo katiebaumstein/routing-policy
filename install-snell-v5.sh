@@ -78,7 +78,6 @@ cat > /etc/motd <<EOF
 EOF
 
 echo
-echo "================ CURRENT SESSION ================"
 cat /etc/motd
 echo "================================================="
 
